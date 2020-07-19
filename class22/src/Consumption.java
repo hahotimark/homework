@@ -1,3 +1,4 @@
+/*
 import java.util.ArrayList;
 
 public class Consumption {
@@ -46,6 +47,6 @@ public class Consumption {
 
     }
 
- */
-}
 
+}
+*/
