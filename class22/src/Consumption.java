@@ -1,4 +1,4 @@
-/*
+
 import java.util.ArrayList;
 
 public class Consumption {
@@ -17,7 +17,7 @@ public class Consumption {
 
             for (int i = 0; i < deviceList.size(); i++) {
 
-                performance = performance + deviceList(i);
+                performance += this.deviceList.get(i);
 
             }
 
@@ -28,7 +28,7 @@ public class Consumption {
 
 
 
-/*
+
     public void setDeviceList(ArrayList<Devices> deviceList) {
 
         this.deviceList = deviceList;
